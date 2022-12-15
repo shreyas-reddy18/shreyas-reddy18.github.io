@@ -4,8 +4,6 @@ This is my home page! My name is Shreyas Nallapareddy and I am a student at [Cal
 
 ## Computer Science Projects
 
-## Computer Science Projects
-
 My GitHub page is http://github.com/shreyas-reddy18.
 
 ### CPSC 120
